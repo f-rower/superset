@@ -50,9 +50,9 @@ A modern, enterprise-ready business intelligence web application.
 
 ### Documentation
 
-- **[User Guide](https://superset.apache.org/user-docs/)** — For analysts and business users. Explore data, build charts, create dashboards, and connect databases.
-- **[Administrator Guide](https://superset.apache.org/admin-docs/)** — Install, configure, and operate Superset. Covers security, scaling, and database drivers.
-- **[Developer Guide](https://superset.apache.org/developer-docs/)** — Contribute to Superset or build on its REST API and extension framework.
+- **[User Guide](https://superset.apache.org/user-docs/)** - For analysts and business users. Explore data, build charts, create dashboards, and connect databases.
+- **[Administrator Guide](https://superset.apache.org/admin-docs/)** - Install, configure, and operate Superset. Covers security, scaling, and database drivers.
+- **[Developer Guide](https://superset.apache.org/developer-docs/)** - Contribute to Superset or build on its REST API and extension framework.
 
 [**Why Superset?**](#why-superset) |
 [**Supported Databases**](#supported-databases) |
